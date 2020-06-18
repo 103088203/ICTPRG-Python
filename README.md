@@ -1,2 +1,2 @@
 # ICTPRG-Python
-Github project in ICTPRG405 in Semester 1
+Github project in ICTPRG407 in Semester 1
